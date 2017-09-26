@@ -9,6 +9,10 @@ Keys: Escape = Quit
 
 Mouse: Nothing
 
+Runs on any device that has accelerated OpenGl 4.5 change the #version in the shaders if needed
+
+lwjgl based sould compile on any OS with Eclipse and lwjgl3
+
 Type: Eclipse Project File
 
 Needed to compile:
